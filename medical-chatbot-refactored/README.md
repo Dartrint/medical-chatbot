@@ -51,29 +51,7 @@ User Query → Semantic Retrieval (Top-k) ─┘
 
 ## 💬 Demo
 
-**User Query**
-
-```
-How is hypertension managed?
-```
-
-**Generated Answer (Example)**
-
-```
-Hypertension is typically managed through lifestyle modifications such as reducing salt intake,
-regular exercise, and medication including ACE inhibitors or beta-blockers...
-```
-
-**Source Evidence**
-
-```
-[Source 1] Hypertension is defined as...
-[Source 2] Treatment includes ACE inhibitors...
-```
-
-> ✅ Answers are **not generated blindly** — they are grounded in retrieved knowledge
-
----
+<img width="722" height="370" alt="{25CF76F4-242C-4E82-80FD-D7C32B89D4A9}" src="https://github.com/user-attachments/assets/6f7cff46-a049-4b13-8fbf-2207d9dacb22" />
 
 ## ✨ Key Features
 
